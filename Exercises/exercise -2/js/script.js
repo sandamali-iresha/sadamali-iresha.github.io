@@ -1,7 +1,7 @@
 alert("Hello frontend developer");
  
 function init() {
-    document.getElementById("about").style.color ='blue'
+    document.getElementById("about").style.color ='purple'
 }
 
 function date_add(){
